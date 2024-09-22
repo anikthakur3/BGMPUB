@@ -1,0 +1,5 @@
+chmod +x *
+./install.sh
+pip install telebot pymongo aiohttp / pip install telebot pymongo aiohttp psutil
+chmod +x *
+pyhono3 soul.py
